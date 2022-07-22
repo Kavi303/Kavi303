@@ -1,0 +1,10 @@
+1.Hacking(wireless hacking , system , crack the payload)
+      2.AI and ML (algorithm finding problem in the mechanism using python )
+      3.Network penetration testing,Internal/External Infrastructure Penetration Testing,Wireless Penetration Testing.
+      4.Network Monitoring Tools & Software
+      5.Network analysis
+      6.Black chain security
+      7.Network monitoring tools open source
+      8.linux handling (Kali Linux and black arch (tools: wireshark, nmap, Metasploit Project,aircrack-ng,Reaver,PixieWPS,Wireless Security - Bluetooth Hacking Tools))
+     9.Network design
+   10.hardware (raspberry pi network monitor dashboard )
